@@ -1,4 +1,4 @@
-﻿
+﻿//хуй антохи
 let flag = true;
 do {
     let a = 10 * Math.random();
